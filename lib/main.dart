@@ -552,6 +552,8 @@ class DiskPainter extends CustomPainter {
 
   @override
   bool shouldRepaint(covariant DiskPainter oldDelegate) {
-    return oldDelegate.lightAngle != lightAngle;
+    return oldDelegate.lightAngle != lightAngle ||
+        oldDelegate.diskColor != diskColor ||
+        oldDelegate.lightColor != lightColor;
   }
 }
