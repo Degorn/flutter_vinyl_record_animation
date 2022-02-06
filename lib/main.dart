@@ -296,7 +296,7 @@ class Disk extends StatelessWidget {
 }
 
 class Folder extends StatelessWidget {
-  /// Creates a square [Folder] whose height and width are specified by the [ыize] parameter.
+  /// Creates a square [Folder] whose height and width are specified by the [size] parameter.
   const Folder({
     Key? key,
     required this.size,
