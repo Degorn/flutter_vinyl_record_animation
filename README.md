@@ -2,4 +2,4 @@
 
 A simple staggered animation.
 
-<img src="https://s10.gifyu.com/images/Vinyl-record-animation.gif" width="260" />
+<img src="readme/VinylRecordAnimation.gif" width="260" />
